@@ -20,7 +20,7 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
   
-</project>
+
 <distributionManagement>
 	
 	    <repository>
@@ -36,3 +36,4 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
+</project>
